@@ -5,5 +5,5 @@ How to include Icons in your Application (OpenWeather Map API)
  
  Include the icon file in your program to use this.
  
- Other instructions at: https://stackoverflow.com/a/62369654/10552501
+ Step-by-step instructions at: https://stackoverflow.com/a/62369654/10552501
  
