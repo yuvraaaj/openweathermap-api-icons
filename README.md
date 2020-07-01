@@ -5,5 +5,4 @@
  
  Include the icon file in your program to use this.
  
- Step-by-step instructions at: *https://stackoverflow.com/a/62369654/10552501*
- 
+ Step-by-step instructions at: *https://stackoverflow.com/a/62369654/10552501* (Don't forget to Upvote if it helps 😊)
